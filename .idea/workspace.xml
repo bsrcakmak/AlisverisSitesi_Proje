@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="540c1571-6cd3-4406-812b-9c5aa7cc5aef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/pages/SpendingGoodAdressPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/pages/SpendingGoodHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/pages/SpendingGoodOrderCompletePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/pages/SpendingGoodOrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/pages/SpendingGoodShoppingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us21SpendingGood/B_21_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us21SpendingGood/B_21_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us21SpendingGood/B_21_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us21SpendingGood/B_21_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us21SpendingGood/B_21_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/utilities/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/utilities/JSUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/siteproject/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/siteproject/tests/us06SpendingGood/B_06_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +16,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1676654864" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1676654863" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,13 +51,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/AlisverisSitesiProje/src/test/java/siteproject/tests/us21SpendingGood"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/IdeaProjects/AlisverisSitesiProje/src/test/java/siteproject/tests/us21SpendingGood&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\AlisverisSitesiProje\src\test\java\siteproject\tests\us21SpendingGood" />
@@ -70,6 +67,31 @@
       <recent name="siteproject.utilities" />
       <recent name="siteproject.pages" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="B_06_5.us06_tc05" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AlisverisSitesiProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="siteproject.tests.us06SpendingGood.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="siteproject.tests.us06SpendingGood" />
+      <option name="MAIN_CLASS_NAME" value="siteproject.tests.us06SpendingGood.B_06_5" />
+      <option name="METHOD_NAME" value="us06_tc05" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.B_06_5.us06_tc05" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

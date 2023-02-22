@@ -3,10 +3,10 @@ package siteproject.tests.us06SpendingGood;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import testNGproject.pages.*;
-import testNGproject.utilities.ConfigReader;
-import testNGproject.utilities.Driver;
-import testNGproject.utilities.ReusableMethods;
+import siteproject.pages.*;
+import siteproject.utilities.ConfigReader;
+import siteproject.utilities.Driver;
+import siteproject.utilities.ReusableMethods;
 
 public class B_06_9 {
     SpendingGoodHomePage spendingGoodHomePage;

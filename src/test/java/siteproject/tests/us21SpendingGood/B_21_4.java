@@ -2,10 +2,13 @@ package siteproject.tests.us21SpendingGood;
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
-import testNGproject.pages.*;
-import testNGproject.utilities.ConfigReader;
-import testNGproject.utilities.Driver;
-import testNGproject.utilities.ReusableMethods;
+import siteproject.pages.SpendingGoodAdressPage;
+import siteproject.pages.SpendingGoodHomePage;
+import siteproject.pages.SpendingGoodOrderPage;
+import siteproject.pages.SpendingGoodShoppingPage;
+import siteproject.utilities.ConfigReader;
+import siteproject.utilities.Driver;
+import siteproject.utilities.ReusableMethods;
 
 public class B_21_4 {
     SpendingGoodHomePage spendingGoodHomePage;
